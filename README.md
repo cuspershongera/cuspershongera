@@ -3,7 +3,6 @@
 💻 Software Engineer based in Zimbabwe.  
 I build practical systems with a focus on performance, clarity, and long-term maintainability.
 
----
 
 ## 🛠️ Stack
 
@@ -11,7 +10,6 @@ I build practical systems with a focus on performance, clarity, and long-term ma
 - ⚙️ **Backend:** C#, Go, Python (Django, FastAPI)  
 - 🌐 **Web:** JavaScript / TypeScript (React, Next.js), PHP (Laravel)
 
----
 
 ## 🎯 Focus
 
@@ -20,7 +18,6 @@ Currently concentrating on:
 - 🚀 Flutter for cross-platform applications  
 - 🧩 Go for backend services  
 
----
 
 ## 📦 Projects
 
