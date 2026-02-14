@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I’m Cusper 👋
 
 I am a Software Engineer based in Zimbabwe. I build practical systems with a focus on performance, clarity, and long-term maintainability.
