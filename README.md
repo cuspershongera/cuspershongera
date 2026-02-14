@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**cuspershongera/cuspershongera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I’m Cusper 👋
 
-Here are some ideas to get you started:
+I am a Software Engineer based in Zimbabwe. I build practical systems with a focus on performance, clarity, and long-term maintainability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+- **Mobile:** Dart (Flutter)  
+- **Backend:** C#, Go, Python (Django, FastAPI)  
+- **Web:** JavaScript / TypeScript (React, Next.js), PHP (Laravel)
+
+## Focus
+
+Currently concentrating on:
+
+- Flutter for cross-platform apps 
+- Go for backend services
+
+## Projects
+
+Some Apps I built:
+
+- [Blockchain Certificate Verification System](https://github.com/cuspershongera/Certicate-Issuance-and-Verification-System) – Smart contract-based credential issuance and verification system for universities
