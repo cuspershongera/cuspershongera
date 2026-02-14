@@ -1,11 +1,10 @@
-## Hi, I’m Cusper 👋
+### Hi, I’m Cusper 👋
+
 
 I am a Software Engineer💻 based in Zimbabwe.  
 I build practical systems with a focus on performance, reliability, and long-term maintainability.
 
 ---
-
-### 🛠️ Stack
 
 **Here are some of the technologies i find myself using often:**
 
@@ -15,16 +14,12 @@ I build practical systems with a focus on performance, reliability, and long-ter
 
 ---
 
-### 🎯 Focus
-
 **I am currently concentrating on:**
 
 -  Flutter - for cross-platform applications  
 -  Go - for backend services  
 
 ---
-
-### 📦 Projects
 
 **Some apps I’ve built:**
 
