@@ -1,7 +1,7 @@
 ## Hi, I’m Cusper 👋
 
-I am a Software Engineer based in Zimbabwe.  
-I build practical systems with a focus on performance, clarity, and long-term maintainability.
+I am a Software Engineer💻 based in Zimbabwe.  
+I build practical systems with a focus on performance, reliability, and long-term maintainability.
 
 
 ### 🛠️ Stack
@@ -25,8 +25,5 @@ I build practical systems with a focus on performance, clarity, and long-term ma
 
 **Some apps I’ve built:**
 
-- 🔐 [Blockchain Certificate Verification System](https://github.com/cuspershongera/Certicate-Issuance-and-Verification-System)  
-  Smart contract-based credential issuance and verification system for universities.
-
-- ✅ [Todo App](https://github.com/cuspershongera/Todo-App)  
-  Simple task management application.
+-  [Blockchain Certificate Verification System](https://github.com/cuspershongera/Certicate-Issuance-and-Verification-System) - Smart contract-based credential issuance and verification system for universities.
+-  [Todo App](https://github.com/cuspershongera/Todo-App) - Simple task management application.
