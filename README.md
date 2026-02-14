@@ -16,7 +16,7 @@ I build practical systems with a focus on performance, reliability, and long-ter
 
 **I am currently concentrating on:**
 
--  Flutter - for cross-platform applications  
+-  Flutter - for cross-platform mobile applications  
 -  Go - for backend services  
 
 ---
